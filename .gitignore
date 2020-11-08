@@ -1,0 +1,11 @@
+.vscode
+.idea
+.DS_Store
+
+server/build
+*.http
+
+tags
+
+config
+log
